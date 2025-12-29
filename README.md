@@ -13,10 +13,6 @@ A major bottleneck in off-road autonomous driving research lies in the scarcity 
 <img src="doc/2.jpg" width="100%"/>ORAD-3D Dataset
 </p>
 
-<p align="center">
-<img src="doc/com.jpg" width="100%"/>ORAD-3D Dataset
-</p>
-
 ## Prepare data
 
 The proposed off-road autonomous driving dataset ORAD-3D can be found [BaiduYun](XX) (code:XXXX, about 350GB). Extract and organize as follows:
@@ -75,9 +71,17 @@ In off-road environments, GPS signals are often unreliable, preventing autonomou
 
 Recent advances in VLMs have demonstrated their ability to analyze complex scenes through chain-of-thought reasoning, enabling end-to-end autonomous driving. However, research on applying VLMs to off-road autonomous driving remains limited. In this work, we first leverage the multimodal large model Qwen2.5-VL to annotate images from the ORAD-3D dataset, generating detailed scene descriptions as illustrated. Subsequently, using pose data as ground-truth trajectories, we prompt the VLM to predict future paths, enabling end-to-end path planning in off-road scenarios.
 
+<p align="center">
+<img src="doc/vlm.jpg" width="100%"/>VLM-based Autonomous Driving
+</p>
+
 ## Off-road World Model
 
 In contrast to the abundance of large-scale datasets readily available for urban autonomous driving, research on off-road autonomous driving remains significantly constrained by the scarcity of suitable data. This paper seeks to address this critical limitation by investigating off-road scene data generation through the development of a world model capable of producing diverse and controllable off-road scenarios. Specifically, the proposed approach enables the synthesis of off-road data under extreme weather and illumination conditions, from multiple viewpoints, and across heterogeneous road environments, thereby substantially enhancing both the scale and diversity of off-road datasets.
+
+<p align="center">
+<img src="doc/wm2.jpg" width="100%"/>Off-road World Model
+</p>
 
 ##  License
 

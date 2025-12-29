@@ -83,10 +83,6 @@ In contrast to the abundance of large-scale datasets readily available for urban
 <img src="doc/wm2.jpg" width="80%"/>
 </p>
 
-Below is a **GitHub-ready English description** suitable for a **dataset README**:
-
----
-
 ## Folder Descriptions
 
 1. **calib**

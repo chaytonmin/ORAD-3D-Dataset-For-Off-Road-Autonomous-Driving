@@ -15,12 +15,12 @@ A major bottleneck in off-road autonomous driving research lies in the scarcity 
 
 ## 📰 News
 
-* **[2025.12.29]**  Our dataset is publicly released on Baidu Cloud.
+* **[2025.12.31]**  Our dataset is publicly released on Baidu Cloud.
 * **[2025.10.18]**  Our paper is publicly released on Arxiv.
 
 ## Prepare data
 
-The proposed off-road autonomous driving dataset ORAD-3D can be found [BaiduYun](XX) (code:XXXX, about 350GB). Extract and organize as follows:
+The proposed off-road autonomous driving dataset ORAD-3D can be found [BaiduYun](https://pan.baidu.com/s/1S0cviwlkN432LqCYdM2zsw?pwd=zp2e) (code:zp2e, about 350GB). Extract and organize as follows:
 
 ```
 |-- datasets

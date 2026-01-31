@@ -1,6 +1,6 @@
 # Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks
 
-Repository for our paper ["Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks"](https://arxiv.org/abs/2510.16500).
+Repository for our ICRA 2026 paper ["Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks"](https://arxiv.org/abs/2510.16500).
 
 Email:mincheng@ict.ac.cn
 
